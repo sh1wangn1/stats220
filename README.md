@@ -1,7 +1,7 @@
 # *Hi!!!*
 ## *My name is Shiwangni Prakash* 🕉
 
-**I am a second year student at the University of Auckland, studying Data Science.**
+#### **I am a second year student at the University of Auckland, studying Data Science.**
 
 **Here is a little bit about me:**
 - I am into bodybuilding 
