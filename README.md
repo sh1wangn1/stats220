@@ -11,7 +11,7 @@
 
 
 **Here is a little bit about me:**
-- I am into Bodybuilding
+- I do Bodybuilding as a hobby
 - I just recently got into boxing
 - I have 15 goldfishes and 11 chickens as pets :)
 
