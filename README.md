@@ -11,8 +11,8 @@
 
 
 **Here is a little bit about me:**
-- I do Bodybuilding as a hobby
+- I am into Weightlifting
 - I just recently got into boxing
-- I have 15 goldfishes and 11 chickens as pets :)
+- I have 15 goldfishes and 10 chickens as pets :)
 
 Follow my [Twitter](https://twitter.com/shiwanxni) :)
