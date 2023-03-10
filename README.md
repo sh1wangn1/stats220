@@ -10,9 +10,8 @@
 4. Maths 208 : General Maths
 
 
-**Here is a little bit about me:**
-- I am into Weightlifting
-- I just recently got into boxing
-- I have 15 goldfishes and 10 chickens as pets :)
+**Here is a little bit about my Project:**
+- I have created this repository for a project for Stats220
+- I am using R code for the project 
 
 Follow my [Twitter](https://twitter.com/shiwanxni) :)
